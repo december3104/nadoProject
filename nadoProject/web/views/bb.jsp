@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-이름 입력
+우수수수수수수수수수수수수
 </body>
 </html>
