@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-이름
+이름 양호성입니다.!!
 </body>
 </html>
